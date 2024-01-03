@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Skills to Practice
-author:
-  name: Gregory Brown
-  email: gregory@practicingdeveloper.com
+author: Gregory Brown
+email: gregory@practicingdeveloper.com
 description: >- # this means to ignore newlines until "baseurl:"
   Quietly trying a new writing project out here that may or may not
   grow into something more.

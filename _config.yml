@@ -31,9 +31,10 @@ github_username:  practicingdev
 google_analytics: G-4J9Q8HV5GL
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

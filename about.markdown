@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-More to come soon, I hope...
+More to come soon, I hope!

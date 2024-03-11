@@ -12,5 +12,5 @@ And that's pretty awesome, so thank you!
 
 To learn more, send a DM to **@practicingdev** or send an email to **gregory at practicingdeveloper.com** -- I'd love to answer any questions you have or just let you know more about what I'm trying to do here.
 
-You can also [sign up for email announcements](https://skillstopractice.podia.com/) about the **Beginner's Guide to Code Reading**, if you're a beginner, beginner at heart, or looking to help others find a new and better way to start.
+You can also [sign up for email announcements](https://skillstopractice.podia.com/) about my upcoming **Beginner's Guide to Code Reading**, if you're a beginner, beginner at heart, or looking to help others find a new and better way to start.
 

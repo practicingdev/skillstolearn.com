@@ -14,5 +14,5 @@ To learn more, send a DM to **@practicingdev** or send an email to **gregory at 
 
 You can also [sign up for email announcements](https://skillstopractice.podia.com/) about my **Beginner's Guide to Code Reading**, if you are a beginner, beginner at heart, or looking to help others find a new and better way to start.
 
-Happy coding!
+Happy coding!<br>
 -g
